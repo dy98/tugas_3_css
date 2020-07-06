@@ -1,0 +1,22 @@
+p {
+    background-color: gray;
+}
+
+.p-pertama {
+    background-color: rgb(209, 121, 13);
+}
+
+.p-kedua {
+    background-color: blue;
+    color: white;
+}
+
+.p-ketiga {
+    background-color: white;
+    border: 1px solid gray;
+    font: 15px/1.5em verdana, arial;
+}
+
+.p-keempat {
+    font-weight: bold;
+}
